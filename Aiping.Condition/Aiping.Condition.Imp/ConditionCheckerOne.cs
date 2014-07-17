@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Aiping.Condition.Imp
 {
-    class ConditionCheckerOne:IConditionChecker
+    class ConditionCheckerOne : IConditionChecker
     {
         public bool IsValid(int orderId)
         {
-            if(orderId > )
+            if (orderId > 0)
             {
                 return true;
             }
