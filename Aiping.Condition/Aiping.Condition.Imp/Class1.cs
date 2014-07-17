@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Aiping.Condition.Imp
 {
-    public class Class1
+    public class NewClass
     {
     }
 }
