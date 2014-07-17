@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Aiping.Condition.Interface
 {
-    public class Class1
+    public interface IConditionChecker
     {
+        bool IsValid(int orderId);
     }
 }

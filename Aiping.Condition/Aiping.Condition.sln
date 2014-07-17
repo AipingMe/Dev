@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aiping.Condition.Interface", "Aiping.Condition.Interface\Aiping.Condition.Interface.csproj", "{343DE31E-8B17-4179-913F-9D6B828A9265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aiping.Condition.Imp", "Aiping.Condition.Imp\Aiping.Condition.Imp.csproj", "{83164A05-54C0-42A5-9E78-F190D3B16756}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{343DE31E-8B17-4179-913F-9D6B828A9265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343DE31E-8B17-4179-913F-9D6B828A9265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343DE31E-8B17-4179-913F-9D6B828A9265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343DE31E-8B17-4179-913F-9D6B828A9265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83164A05-54C0-42A5-9E78-F190D3B16756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83164A05-54C0-42A5-9E78-F190D3B16756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83164A05-54C0-42A5-9E78-F190D3B16756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83164A05-54C0-42A5-9E78-F190D3B16756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

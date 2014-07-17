@@ -1,0 +1,7 @@
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\bin\Debug\Aiping.Condition.Imp.dll
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\bin\Debug\Aiping.Condition.Imp.pdb
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\bin\Debug\Aiping.Condition.Interface.dll
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\bin\Debug\Aiping.Condition.Interface.pdb
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\obj\Debug\Aiping.Condition.Imp.csprojResolveAssemblyReference.cache
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\obj\Debug\Aiping.Condition.Imp.dll
+E:\Github\Dev\Aiping.Condition\Aiping.Condition.Imp\obj\Debug\Aiping.Condition.Imp.pdb
