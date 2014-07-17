@@ -1,8 +1,0 @@
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\bin\Debug\Aiping.Condition.Interface.dll.config
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\bin\Debug\Aiping.Condition.Interface.dll
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\bin\Debug\Aiping.Condition.Interface.pdb
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\obj\Debug\Aiping.Condition.Interface.csprojResolveAssemblyReference.cache
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\obj\Debug\Aiping.Condition.Interface.Properties.Resources.resources
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\obj\Debug\Aiping.Condition.Interface.csproj.GenerateResource.Cache
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\obj\Debug\Aiping.Condition.Interface.dll
-E:\Github\Dev\Aiping.Condition\Aiping.Condition.Interface\obj\Debug\Aiping.Condition.Interface.pdb
