@@ -11,7 +11,14 @@ namespace Aiping.Condition.Imp
     {
         public bool IsValid(int orderId)
         {
-            throw new NotImplementedException();
+            if(orderId > )
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
