@@ -3,7 +3,7 @@ using System;
 
 namespace Aiping.Condition.Imp
 {
-    public class IConditionCheckerTwo : IConditionChecker
+    public class ConditionCheckerTwo : IConditionChecker
     {
         public bool IsValid(int orderId)
         {
